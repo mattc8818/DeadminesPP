@@ -1,6 +1,6 @@
 # DeadminesPP
 
-This repository is where my project DeadminesPP will rest. DeadminesPP is a project based around an open source game I found here on Github by Misttgun. 
+This repository is where my project DeadminesPP will rest. DeadminesPP is a project based around an open source game I found here on Github by Misttgun, simply called Text RPG. 
 
 I will be working with his code, expanding it, and learning from it, as I learn the workflow and development style of C++.
 
