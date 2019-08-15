@@ -1,3 +1,13 @@
+# DeadminesPP
+
+This repository is where my project DeadminesPP will rest. DeadminesPP is a project based around an open source game I found here on Github by Misttgun. 
+
+I will be working with his code, expanding it, and learning from it, as I learn the workflow and development style of C++.
+
+As of 8/15/2019, the current code is still unrevised and all his, but I will soon upload my planned revisions.
+
+-------------------------
+
 # Text RPG
 
 Source code for my C++ Text-based RPG style game.
