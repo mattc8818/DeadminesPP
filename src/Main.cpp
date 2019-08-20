@@ -111,6 +111,7 @@ int main()
 
 		// Add the search and movement options to the dialogue
 		Dialogue roomOptions = areaPtr->dialogue;
+
 		for (auto door : areaPtr->doors)
 		{
 			roomOptions.addChoice("Go through the " + door->description);
