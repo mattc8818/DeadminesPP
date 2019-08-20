@@ -14,7 +14,7 @@ private:
 	// Initial piece of information that the dialogue displays
 	std::string description;
 
-	// A vector of choices that will be outputted. No nubering necessary, the dialogue does that automatically
+	// A vector of choices that will be outputted. No numbering necessary, the dialogue does that automatically
 	std::vector<std::string> choices;
 
 public:
@@ -23,6 +23,8 @@ public:
 	{
 		// Outup the information
 		std::cout << description << std::endl;
+
+		std::cout << "0: open menu"<< std::endl;
 
 		// Output the number of choices
 		for (int i = 0; i < choices.size(); i++)
@@ -48,6 +50,7 @@ public:
 	{
 		this->description = description;
 		this->choices = choices;
+
 	}
 
 	// Create a dialogue from a JSON value
