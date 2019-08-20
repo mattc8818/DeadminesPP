@@ -4,8 +4,6 @@ This repository is where my project DeadminesPP will rest. DeadminesPP is a proj
 
 I will be working with his code, expanding it, and learning from it, as I learn the workflow and development style of C++.
 
-As of 8/15/2019, the current code is still unrevised and all his, but I will soon upload my planned revisions.
-
 -------------------------
 
 # Text RPG
