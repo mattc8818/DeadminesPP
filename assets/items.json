@@ -6,11 +6,6 @@
 
 	"item_iron_key": {
 		"name": "Iron Key",
-		"description": "A heavy iron key with a simple cut"
-	},
-
-	"item_gold_key": {
-		"name": "Gold Key",
-		"description": "A shiny gold key"
+		"description": "Blasting powder for the cannon."
 	}
 }

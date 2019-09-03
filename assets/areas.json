@@ -1,66 +1,65 @@
 {
-  "area_01": {
-    "dialogue": {
-      "description": "You are in the entrance tunnel",
-      "choices": []
-    },
-    "doors": [ "door_01_02" ],
-    "inventory": {
-      "items": [
-        [ "item_gold_coin", 5 ],
-        [ "item_iron_key", 1 ]
-      ],
-      "weapons": [
-        [ "weapon_dagger_iron", 1 ]
-      ],
-      "armors": [
-        [ "armor_leather", 1 ]
-      ]
-    },
-    "creatures": []
-  },
+	"area_01": {
+		"dialogue": {
+			"description": "You are in the Entrance Tunnel",
+			"choices": []
+		},
+		"doors": ["door_01_02"],
+		"inventory": {
+			"items": [
+				["item_gold_coin", 5],
+				["item_iron_key", 1]
+			],
+			"weapons": [
+				["weapon_dagger_iron", 1]
+			],
+			"armors": [
+				["armor_leather", 1]
+			]
+		},
+		"creatures": []
+	},
 
-  "area_02": {
-    "dialogue": {
-      "description": "You are in the mast room",
-      "choices": []
-    },
-    "doors": [ "door_01_02", "door_02_03" ],
-    "inventory": {
-      "items": [
-        [ "item_gold_coin", 50 ]
-      ],
-      "weapons": [],
-      "armors": []
-    },
-    "creatures": [ "creature_rat" ]
-  },
+	"area_02": {
+		"dialogue": {
+			"description": "You are in the Mast Room",
+			"choices": []
+		},
+		"doors": ["door_01_02", "door_02_03"],
+		"inventory": {
+			"items": [
+				["item_gold_coin", 50]
+			],
+			"weapons": [],
+			"armors": []
+		},
+		"creatures":["creature_rat"]
+	},
 
-  "area_03": {
-    "dialogue": {
-      "description": "You are in the goblin foundry",
-      "choices": []
-    },
-    "doors": [ "door_02_03", "door_03_04" ],
-    "inventory": {
-      "items": [
-        [ "item_gold_coin", 10 ],
-        [ "item_gold_key", 1 ]
-      ],
-      "weapons": [
-        [ "weapon_sword_steel", 1 ],
-        [ "weapon_dagger_steel", 1 ]
-      ],
-      "armors": [
-        [ "armor_steel", 1 ]
-      ]
-    },
-    "creatures": []
-  },
+	"area_03": {
+		"dialogue": {
+			"description": "You are in the Goblin Foundry",
+			"choices": []
+		},
+		"doors": ["door_02_03", "door_03_04"],
+		"inventory": {
+			"items": [
+				["item_gold_coin", 10],
+			],
+			"weapons": [
+				["weapon_sword_steel", 1],
+				["weapon_dagger_steel", 1]
+			],
+			"armors": [
+				["armor_steel", 1]
+			]
+		},
+		"creatures":[]
+	},
 
   "area_04": {
     "dialogue": {
-      "description": "You are in the cove tunnels",
+      "description": "You are in the Ironclad Tunnel",
       "choices": []
     },
     "doors": [ "door_03_04" ],
@@ -74,10 +73,10 @@
 
   "area_05": {
     "dialogue": {
-      "description": "You are on the Ironclad Cove Dock",
+      "description": "You are on the Ironclad Dock",
       "choices": []
     },
-    "doors": [ "door_03_04" ],
+    "doors": [ "door_04_05" ],
     "inventory": {
       "items": [],
       "weapons": [],
@@ -91,12 +90,12 @@
       "description": "You are on the Ironclad Deck",
       "choices": []
     },
-    "doors": [ "door_03_04" ],
+    "doors": [ "door_05_06" ],
     "inventory": {
       "items": [],
       "weapons": [],
       "armors": []
     },
     "creatures": [ "creature_rat", "creature_rat", "creature_ghoul" ]
-  }
+  },
 }
